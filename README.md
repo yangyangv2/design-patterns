@@ -1,2 +1,2 @@
 # design-patterns
-a study for design patterns
+design pattern demos
